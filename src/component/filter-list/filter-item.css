@@ -1,0 +1,8 @@
+.filterWrapper {
+  display: flex;
+  margin-top: 20px;
+  flex-direction: column;
+}
+.btnActive {
+  background: #0cf6cb;
+}
